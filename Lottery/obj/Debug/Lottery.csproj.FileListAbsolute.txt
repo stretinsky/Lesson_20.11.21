@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Lesson_20-11-21\Lottery\obj\Debug\Lottery.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Lesson_20-11-21\Lottery\obj\Debug\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Lesson_20-11-21\Lottery\bin\Debug\Lottery.exe.config
+C:\Users\admin\source\repos\Lesson_20-11-21\Lottery\bin\Debug\Lottery.exe
+C:\Users\admin\source\repos\Lesson_20-11-21\Lottery\bin\Debug\Lottery.pdb
+C:\Users\admin\source\repos\Lesson_20-11-21\Lottery\obj\Debug\Lottery.exe
+C:\Users\admin\source\repos\Lesson_20-11-21\Lottery\obj\Debug\Lottery.pdb

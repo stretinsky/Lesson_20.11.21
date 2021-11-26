@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodichka_20-11-21", "Metodichka_20-11-21\Metodichka_20-11-21.csproj", "{900C3ADD-A40E-4D92-8D70-717A9D36644C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lottery", "Lottery\Lottery.csproj", "{9FE34136-34B1-4E10-8B59-361AF0351228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{900C3ADD-A40E-4D92-8D70-717A9D36644C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900C3ADD-A40E-4D92-8D70-717A9D36644C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900C3ADD-A40E-4D92-8D70-717A9D36644C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900C3ADD-A40E-4D92-8D70-717A9D36644C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE34136-34B1-4E10-8B59-361AF0351228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE34136-34B1-4E10-8B59-361AF0351228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE34136-34B1-4E10-8B59-361AF0351228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE34136-34B1-4E10-8B59-361AF0351228}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFC37CC1-FF26-4099-922C-9ABC7A9B8733}
+	EndGlobalSection
+EndGlobal
